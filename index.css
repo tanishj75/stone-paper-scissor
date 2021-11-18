@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: yellowgreen;
+}
+h1{
+    font-size: 4rem;
+    font-family: 'Montserrat';
+}
+h3{
+    font-family: 'Montserrat';
+    font-weight: bold;
+    padding: 3% 0 0;
+}
+#title{
+    padding: 6%;
+}
+#mid{
+    padding: 0 15% 5%;
+}
